@@ -1,5 +1,5 @@
 # SimpleTwitchChat
-Simple Twitch Chat program to easily view any stream's chat
+Simple Twitch Chat program to easily view any stream's chat - I am very new to C#, so there is more than likely alot of things that could be better. Feel free to fork the project and add on to it.
 
 ## USE
 1. Open Program
