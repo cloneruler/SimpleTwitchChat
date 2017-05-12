@@ -1,0 +1,9 @@
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\bin\Debug\SimpleTwitchChat.exe.config
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\bin\Debug\SimpleTwitchChat.exe
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\bin\Debug\SimpleTwitchChat.pdb
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\obj\Debug\SimpleTwitchChat.csprojResolveAssemblyReference.cache
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\obj\Debug\SimpleTwitchChat.Form1.resources
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\obj\Debug\SimpleTwitchChat.Properties.Resources.resources
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\obj\Debug\SimpleTwitchChat.csproj.GenerateResource.Cache
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\obj\Debug\SimpleTwitchChat.exe
+c:\users\cloneruler\documents\visual studio 2017\Projects\SimpleTwitchChat\SimpleTwitchChat\obj\Debug\SimpleTwitchChat.pdb
